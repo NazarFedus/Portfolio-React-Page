@@ -8,6 +8,7 @@ import project03Big from './../img/projects/03-big.jpg'
 
 export const projects = [
      {
+          id: 1,
           title: 'Calculator',
           skills: '',
           img: project01,
@@ -15,6 +16,7 @@ export const projects = [
           gitHubLink: ''
      },
      {
+          id: 2,
           title: 'Game',
           skills: '',
           img: project02,
@@ -22,6 +24,7 @@ export const projects = [
           gitHubLink: ''
      },
      {
+          id: 3,
           title: 'Something',
           skills: '',
           img: project03,

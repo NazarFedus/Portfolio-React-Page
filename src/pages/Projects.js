@@ -11,7 +11,7 @@ export default function Projects(){
                     <ul className="projects">
 
                          {projects.map(el => {
-                              return <Project project={el}></Project>
+                              return <Project key={el.id} project={el}></Project>
                          })}
 
                     </ul>
