@@ -6,23 +6,23 @@ import project03 from './../img/projects/03.jpg'
 import project03Big from './../img/projects/03-big.jpg'
 
 
-const projects = [
+export const projects = [
      {
-          title: '',
+          title: 'Calculator',
           skills: '',
           img: project01,
           imgBig: project01Big,
           gitHubLink: ''
      },
      {
-          title: '',
+          title: 'Game',
           skills: '',
           img: project02,
           imgBig: project02Big,
           gitHubLink: ''
      },
      {
-          title: '',
+          title: 'Something',
           skills: '',
           img: project03,
           imgBig: project03Big,
