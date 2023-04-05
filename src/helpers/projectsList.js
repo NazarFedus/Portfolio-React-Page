@@ -25,7 +25,7 @@ export const projects = [
      },
      {
           id: 3,
-          title: 'Something',
+          title: 'Online Shop',
           skills: '',
           img: project03,
           imgBig: project03Big,
