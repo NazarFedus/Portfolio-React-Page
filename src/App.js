@@ -7,6 +7,7 @@ import { Footer } from './components/footer/Footer'
 //pages
 import Home from './pages/Home'
 import Projects from './pages/Projects';
+import Contacts from './pages/Contacts';
 
 
 
@@ -15,8 +16,9 @@ function App() {
     <div className="App">
         <Navbar></Navbar>
 
-        {/* <Home></Home> */}
-        <Projects></Projects>
+        {/* <Home /> */}
+        {/* <Projects /> */}
+        <Contacts />
 
         <Footer></Footer>
     </div>
