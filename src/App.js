@@ -3,7 +3,10 @@ import './styles/main.css'
 //components
 import { Navbar } from './components/navbar/Navbar'
 import { Footer } from './components/footer/Footer'
+
+//pages
 import Home from './pages/Home'
+import Projects from './pages/Projects';
 
 
 
@@ -12,7 +15,8 @@ function App() {
     <div className="App">
         <Navbar></Navbar>
 
-        <Home></Home>
+        {/* <Home></Home> */}
+        <Projects></Projects>
 
         <Footer></Footer>
     </div>
