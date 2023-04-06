@@ -9,7 +9,7 @@ import project04Big from './../img/projects/04-big.jpg'
 
 export const projects = [
      {
-          id: 1,
+          id: '1',
           title: 'Calculator',
           skills: '',
           img: project01,
@@ -17,7 +17,7 @@ export const projects = [
           gitHubLink: ''
      },
      {
-          id: 2,
+          id: '2',
           title: 'Game',
           skills: '',
           img: project02,
@@ -25,7 +25,7 @@ export const projects = [
           gitHubLink: ''
      },
      {
-          id: 3,
+          id: '3',
           title: 'Online Shop',
           skills: 'TypeScript, React, Css',
           img: project03,
@@ -33,7 +33,7 @@ export const projects = [
           gitHubLink: 'https://github.com/NazarFedus/app-react-'
      },
      {
-          id: 4,
+          id: '4',
           title: 'Landing',
           skills: 'HTML, CSS, JS',
           img: project04,
