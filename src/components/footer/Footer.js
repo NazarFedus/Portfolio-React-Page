@@ -18,7 +18,7 @@ export function Footer(){
                               <li className="social__item"><a href="#!"><img src={linkedIn} alt="Link" /></a></li>
                          </ul>
                          <div className="copyright">
-                              <p>© 2022 frontend-dev.com</p>
+                              <p>© 2023 nazarfedus5@gmail.com</p>
                          </div>
                     </div>
                </div>
